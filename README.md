@@ -1,6 +1,7 @@
 📌 Executive Summary
 This project helps HR managers and business leaders predict which employees are most likely to seek new job opportunities. By analyzing key employee attributes, we identify high-risk candidates and provide actionable insights to improve retention strategies.
-![Uploading image.png…]()
+![Uploading download.png…]()
+
 
 🔑 Key Business Insights
 ✅ 25% of employees are actively looking for new jobs – a significant attrition risk.
